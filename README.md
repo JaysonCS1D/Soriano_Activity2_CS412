@@ -1,7 +1,7 @@
 # CS412 Activity 2 - Build a Simple Adaptive Rule
 
 **Name:** Mr. J
-**Section:** *(fill in your section)*
+**Section:** *(CS4D)*
 **Date:** August 23, 2026
 
 ## Domain
